@@ -1,1 +1,1 @@
-My first readme file of the day
+This project is on Shell,init files,variables and expansions
