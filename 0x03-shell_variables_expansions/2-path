@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir action .bash_profile
+export PATH"$HOME/action:$PATH"
